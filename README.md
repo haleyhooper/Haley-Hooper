@@ -1,46 +1,4 @@
 # ClubSpot
-
- 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@haleyhooper 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-Read the guide
-
-haleyhooper
-/
-ClubSpot
-Private
- Unwatch 
-1
- Star 0
- Fork 0
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Settings
- main 
-ClubSpot/About
-Go to file
-
-@haleyhooper
-haleyhooper Update and rename README.md to About
-Latest commit 33461de 3 minutes ago
- History
- 1 contributor
-38 lines (19 sloc)  2.18 KB
-RawBlame
-    
-# ClubSpot
 Haley Hooper
 Case Study
 ClubSpot
